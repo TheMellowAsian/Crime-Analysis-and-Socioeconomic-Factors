@@ -13,3 +13,13 @@ the best performance, highlighting the importance of contextual and location-bas
 insights suggest that effective crime prevention requires more than policing. It demands policies that
 address housing affordability, job access, and community resilience. By linking data-driven analysis with
 social policy, this research offers a roadmap for creating safer, more equitable cities.
+
+## Credits
+- Alan Nguyen
+- Sam AlQadi
+- Runqing Yang
+- Lamisha Rahman
+
+### Oversaught By
+- Professor. Maryam Khatami
+- University of North Texas ITDS Department
